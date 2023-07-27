@@ -1,8 +1,8 @@
 # bash-script-calculator
 bash script for addition, subtraction, multiplication, division, modulo and factorial features
 
-
 How it works
+
 ![bash_script_calc](https://github.com/cagriyavuz/bash-script-calculator/assets/101889916/fac0f212-4025-4a6e-a255-7cca25699bcd)
 
 calculator.sh file
